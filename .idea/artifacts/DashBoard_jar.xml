@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DashBoard:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DashBoard_jar</output-path>
+    <root id="archive" name="DashBoard.jar">
+      <element id="module-output" name="DashBoard" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mariadb-java-client-1.5.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/controlsfx-8.20.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/fontawesomefx-8.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/fontawesomefx-commons-9.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/fontawesomefx-controls-9.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/openjfx-dialogs-1.0.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

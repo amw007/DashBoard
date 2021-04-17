@@ -1,0 +1,41 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="DashBoard">
+    <output-path>$PROJECT_DIR$/out/artifacts/DashBoard</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="alias" value="dashboard" />
+        <option name="appClass" value="main.Main" />
+        <option name="convertCss2Bin" value="true" />
+        <option name="description" value="It's a Student DashBoard Utility" />
+        <option name="enabledSigning" value="true" />
+        <option name="height" value="500" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="icons">
+          <JavaFxApplicationIcons>
+            <option name="linuxIcon" value="$PROJECT_DIR$/src/img/favicon.png" />
+            <option name="windowsIcon" value="$PROJECT_DIR$/src/main/favicon.ico" />
+          </JavaFxApplicationIcons>
+        </option>
+        <option name="keypass" value="YW0wMDc=" />
+        <option name="keystore" value="$PROJECT_DIR$/am.cer" />
+        <option name="nativeBundle" value="all" />
+        <option name="storepass" value="YW0wMDc=" />
+        <option name="title" value="My DashBoard" />
+        <option name="vendor" value="AM" />
+        <option name="version" value="1.0.1b" />
+        <option name="width" value="800" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="DashBoard.jar">
+        <element id="module-output" name="DashBoard" />
+        <element id="extracted-dir" path="$USER_HOME$/Downloads/mariadb-java-client-1.5.7.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$USER_HOME$/controlsfx-8.20.8.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$USER_HOME$/openjfx-dialogs-1.0.2.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$USER_HOME$/fontawesomefx-8.9.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$USER_HOME$/fontawesomefx-commons-9.1.2.jar" path-in-jar="/" />
+        <element id="extracted-dir" path="$USER_HOME$/fontawesomefx-controls-9.1.2.jar" path-in-jar="/" />
+      </element>
+    </root>
+  </artifact>
+</component>
